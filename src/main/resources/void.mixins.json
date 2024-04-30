@@ -7,8 +7,7 @@
     "CustomEndSkyMixin"
   ],
   "client": [
-    "NametagRenderMixin",
-    "PlayerListMixin"
+
   ],
   "injectors": {
     "defaultRequire": 1
